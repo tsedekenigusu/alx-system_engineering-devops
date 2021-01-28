@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod -l root betty
+su chown betty /n
