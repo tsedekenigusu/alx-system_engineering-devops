@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty:holberton _hello_symlnk /n
+sudo chown betty:holberton _hello_symlnk
