@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-chmod 777 hello
-
-=======
-chmod 777 hello /n
->>>>>>> db11dbf946a0a664edee3d02010386abcc3403ce
+chmod +111 hello
